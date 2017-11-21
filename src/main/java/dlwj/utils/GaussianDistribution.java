@@ -1,4 +1,4 @@
-package dlwj.perceptrons;
+package dlwj.utils;
 
 import java.util.Random;
 
